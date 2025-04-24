@@ -157,6 +157,8 @@ Execute the programs and publish them.
 
 ```
 ## OUTPUT
+![alt text](<Screenshot 2025-04-24 134757.png>)
+
 ![alt text](<Screenshot 2025-04-24 134854.png>)
 
 ![alt text](<Screenshot 2025-04-24 135053.png>)
